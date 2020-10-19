@@ -10,7 +10,7 @@
 
 * Code directory contains Dockerfile and a NodeJS application
 * The Node application has exactly one endpoint "/"
-* Endpoint return <code> Hello World from NodeJS!! #Happy coding# </code> as a result on the browser
+* Endpoint returns <code> Hello World from NodeJS!! #Happy coding# </code> as a result on GET call
 * Test directory contains the Go code for performing the test.
 * Notice the name of the go file. Should end with _test.go
 * Once all the files are placed open shell or cmd navigate to test directory.
